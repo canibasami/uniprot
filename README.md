@@ -1,4 +1,5 @@
 # Uniprot
+Código por: @dunossauro
 A ideia do script é buscar uma proteína na base de dados UNIPROT e salvar algumas informações, como:
 
 - Nome;
